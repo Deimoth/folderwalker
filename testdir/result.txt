@@ -1,4 +1,0 @@
-text from 1.txt
-text from 2.txt
-text from 3.txt
-text from 4.txt
